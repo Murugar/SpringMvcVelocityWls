@@ -1,0 +1,10 @@
+#set($layout='layout/test-layout.vm')
+#set($page_title="result")
+
+<h3 class="text-success">Name :  $test.name</h3>
+<br />
+<h3 class="text-primary">Age :  ${test.age}</h3>
+
+<script type="text/javascript">
+	alert("$test.name");
+</script>

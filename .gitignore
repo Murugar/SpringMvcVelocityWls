@@ -1,0 +1,17 @@
+target
+.metadata
+.settings
+.classpath
+.project
+.directory
+.springBeans
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+.idea
+*.iml
+*.swp
+datanucleus.log
+

@@ -1,0 +1,24 @@
+body{
+	background-color: #eeeeec;
+}
+
+.input-error{
+	border: 1px solid red;
+}
+
+.msg-error{
+	color: red;
+	margin-bottom: 30px;
+}
+
+form{
+	margin: 0 auto;
+	width: 500px;
+	padding: 15px;
+	background-color: #ffffff;
+	
+}
+
+input, textarea, select, button {
+  margin-bottom: 10px;
+}
